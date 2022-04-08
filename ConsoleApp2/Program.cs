@@ -36,9 +36,10 @@ namespace ConsoleApp2
             var suma = 0;
             foreach (var valor in valores)
             {
+                //Cambia para resta
                 if (valor % 2 == 0)
                 {
-                    suma += valor;
+                    suma -= valor;
                 }
             }
             Console.WriteLine(suma);
