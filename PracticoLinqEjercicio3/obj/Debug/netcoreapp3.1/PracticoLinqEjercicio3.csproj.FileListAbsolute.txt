@@ -1,0 +1,28 @@
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.exe
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.deps.json
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.runtimeconfig.json
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.runtimeconfig.dev.json
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.dll
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.pdb
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.csproj.AssemblyReference.cache
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.AssemblyInfoInputs.cache
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.AssemblyInfo.cs
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.csproj.CoreCompileInputs.cache
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.dll
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.pdb
+C:\Users\guido\source\repos\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.genruntimeconfig.cache
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.exe
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.deps.json
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.runtimeconfig.json
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.runtimeconfig.dev.json
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.dll
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\bin\Debug\netcoreapp3.1\PracticoLinqEjercicio3.pdb
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.csproj.AssemblyReference.cache
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.AssemblyInfoInputs.cache
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.AssemblyInfo.cs
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.csproj.CoreCompileInputs.cache
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.dll
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.pdb
+C:\Users\gdelg\OneDrive\Documentos\Documentos - Programacion 3\ConsoleApp2\PracticoLinqEjercicio3\obj\Debug\netcoreapp3.1\PracticoLinqEjercicio3.genruntimeconfig.cache
